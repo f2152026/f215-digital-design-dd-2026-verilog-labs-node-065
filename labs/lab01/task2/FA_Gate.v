@@ -33,4 +33,5 @@ module FA_Gate(
   or  #(2,3)(cout, pc1, pc2);
   
 
+
 endmodule
